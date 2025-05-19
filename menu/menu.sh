@@ -230,7 +230,7 @@ echo -e "${BICyan} ┌───────────────────�
 echo -e "${BICyan} │$NC ${WT}HARI INI${NC}: ${ORANGE}$ttoday$NC ${WT}KEMARIN${NC}: ${ORANGE}$tyest$NC ${WT}BULAN${NC}: ${ORANGE}$tmon$NC $NC"
 echo -e "${BICyan} └─────────────────────────────────────────────────────┘${NC}"
 echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
-echo -e "${GREEN}  ${RED}▁ ${CYAN}▂ ${GREEN}▄ ${ORANGE}▅${PINK} ▆${GREEN} ▇ ${RED}█${BLUE}𒆜${CYAN} ༻${NC}  SCRIPT ARYA BLITAR ${BLUE}༺ ${RED}𒆜${GREEN}█ ${ORANGE}▇ ${CYAN}▆ ${RED}▅ ${GREEN}▄ ${ORANGE}▂ ${PINK}▁\E[0m"
+echo -e "${GREEN}  ${RED}▁ ${CYAN}▂ ${GREEN}▄ ${ORANGE}▅${PINK} ▆${GREEN} ▇ ${RED}█${BLUE}𒆜${CYAN} ༻${NC}  SCRIPT ROSI CENTER ${BLUE}༺ ${RED}𒆜${GREEN}█ ${ORANGE}▇ ${CYAN}▆ ${RED}▅ ${GREEN}▄ ${ORANGE}▂ ${PINK}▁\E[0m"
 echo -e "${BICyan} └─────────────────────────────────────────────────────┘${NC}"
 DATE=$(date +'%d %B %Y')
 datediff() {
@@ -240,7 +240,7 @@ echo -e " ${BICyan}│${ICyan}  Expiry In     : ${NC}$(( (d1 - d2) / 86400 )) ${
 }
 mai="datediff "$Exp" "$DATE""
 echo -e " ${BICyan}┌─────────────────────────────────────────────────────┐${NC}"
-echo -e " ${BICyan}│ ${ICyan} Version       : ${NC} GRATIS 2024 ${NC}"
+echo -e " ${BICyan}│ ${ICyan} Version       : ${NC} GRATIS 2025 ${NC}"
 echo -e " ${BICyan}└─────────────────────────────────────────────────────┘${NC}"
 echo
 read -p " Select menu : " opt
