@@ -244,7 +244,7 @@ echo "-----------------------------------------------------------------"
 echo ""
 echo "===============-[ Script Created By Rosi Center ]-==============="
 echo -e ""
-echo -e " Wa me 087721815317 "
+echo -e " Wa me 081931472448 "
 echo ""
 echo "" | tee -a log-install.txt
 rm /root/setup.sh >/dev/null 2>&1
